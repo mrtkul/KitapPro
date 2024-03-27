@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Dostoyevski",
+      "image": "https://picsum.photos/800",
+      "year": 1866,
+      "page": 241,
+      "description": "Raskolnikov, fakir bir öğrencidir ve St. Petersburg'ta yaşamaktadır."
+    },
+    {
+      "id": 2,
+      "title": "Anna Karenina",
+      "author": "Tolstoy",
+      "image": "https://picsum.photos/800",
+      "year": 1877,
+      "page": 964,
+      "description": "Anna Karenina, Tolstoy'un en ünlü romanlarından biridir."
+    },
+    {
+      "id": 3,
+      "title": "Dönüşüm",
+      "author": "Kafka",
+      "image": "https://picsum.photos/800",
+      "year": 1915,
+      "page": 82,
+      "description": "Dönüşüm, Franz Kafka'nın en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/800",
+      "year": 1949,
+      "page": 328,
+      "description": "1984, George Orwell tarafından yazılan ve distopik bir gelecekte totaliter bir devletin hüküm sürdüğü bir dünyayı konu alan bir romandır."
+    },
+    {
+      "id": 5,
+      "title": "Satranç",
+      "author": "Stefan Zweig",
+      "image": "https://picsum.photos/800",
+      "year": 1941,
+      "page": 104,
+      "description": "Satranç, Avusturyalı yazar Stefan Zweig'ın en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 6,
+      "title": "Beyaz Diş",
+      "author": "Jack London",
+      "image": "https://picsum.photos/800",
+      "year": 1906,
+      "page": 232,
+      "description": "Beyaz Diş, Amerikalı yazar Jack London'ın en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 7,
+      "title": "Sineklerin Tanrısı",
+      "author": "William Golding",
+      "image": "https://picsum.photos/800",
+      "year": 1954,
+      "page": 224,
+      "description": "Sineklerin Tanrısı, İngiliz yazar William Golding'in ünlü romanlarından biridir."
+    },
+    {
+      "id": 8,
+      "title": "Kırmızı Pazartesi",
+      "author": "Gabriel García Márquez",
+      "image": "https://picsum.photos/800",
+      "year": 1981,
+      "page": 208,
+      "description": "Kırmızı Pazartesi, Nobel ödüllü Kolombiyalı yazar Gabriel García Márquez'in en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 9,
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "image": "https://picsum.photos/800",
+      "year": 1943,
+      "page": 152,
+      "description": "Kürk Mantolu Madonna, Sabahattin Ali'nin en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 10,
+      "title": "Savaş ve Barış",
+      "author": "Tolstoy",
+      "image": "https://picsum.photos/800",
+      "year": 1869,
+      "page": 1225,
+      "description": "Savaş ve Barış, Rus yazar Lev Tolstoy'un en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 11,
+      "title": "Yeraltından Notlar",
+      "author": "Dostoyevski",
+      "image": "https://picsum.photos/800",
+      "year": 1864,
+      "page": 203,
+      "description": "Yeraltından Notlar, Fyodor Dostoyevski'nin en önemli eserlerinden biridir."
+    },
+    {
+      "id": 12,
+      "title": "Don Kişot",
+      "author": "Cervantes",
+      "image": "https://picsum.photos/800",
+      "year": 1605,
+      "page": 863,
+      "description": "Don Kişot, Miguel de Cervantes'in en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 13,
+      "title": "Monte Cristo Kontu",
+      "author": "Alexandre Dumas",
+      "image": "https://picsum.photos/800",
+      "year": 1844,
+      "page": 1392,
+      "description": "Monte Cristo Kontu, Alexandre Dumas'ın en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 14,
+      "title": "Dava",
+      "author": "Kafka",
+      "image": "https://picsum.photos/800",
+      "year": 1925,
+      "page": 233,
+      "description": "Dava, Franz Kafka'nın en önemli eserlerinden biridir."
+    },
+    {
+      "id": 15,
+      "title": "Usta ile Margarita",
+      "author": "Mihail Bulgakov",
+      "image": "https://picsum.photos/800",
+      "year": 1967,
+      "page": 413,
+      "description": "Usta ile Margarita, Rus yazar Mihail Bulgakov'un en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 16,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "image": "https://picsum.photos/800",
+      "year": 1897,
+      "page": 418,
+      "description": "Dracula, İrlandalı yazar Bram Stoker'ın en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 17,
+      "title": "Simyacı",
+      "author": "Paulo Coelho",
+      "image": "https://picsum.photos/800",
+      "year": 1988,
+      "page": 163,
+      "description": "Simyacı, Brezilyalı yazar Paulo Coelho'nun en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 18,
+      "title": "Göçebe",
+      "author": "Kemal Tahir",
+      "image": "https://picsum.photos/800",
+      "year": 1977,
+      "page": 412,
+      "description": "Göçebe, Kemal Tahir'in en önemli eserlerinden biridir."
+    },
+    {
+      "id": 19,
+      "title": "Fareler ve İnsanlar",
+      "author": "John Steinbeck",
+      "image": "https://picsum.photos/800",
+      "year": 1937,
+      "page": 187,
+      "description": "Fareler ve İnsanlar, Amerikalı yazar John Steinbeck'in en ünlü eserlerinden biridir."
+    },
+    {
+      "id": 20,
+      "title": "Kıyamet",
+      "author": "Albert Camus",
+      "image": "https://picsum.photos/800",
+      "year": 1942,
+      "page": 308,
+      "description": "Kıyamet, Fransız yazar Albert Camus'nün en ünlü eserlerinden biridir. "
+    }
+  ]
+}
